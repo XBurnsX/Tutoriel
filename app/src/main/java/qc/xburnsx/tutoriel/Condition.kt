@@ -1,5 +1,6 @@
 package qc.xburnsx.tutoriel
 
+// https://kotlinlang.org/docs/control-flow.html#when-expression
 fun main(){
     val accountType = "free"
     //                                       <!> If Statement <!>
