@@ -76,57 +76,59 @@ package qc.xburnsx.tutoriel
 //    println("Welcome to Little Lemon we are now $isOpen ")
 //}
 
-fun main() {                      //! Exercise 3
+/* fun main(){  */               //! Exercise 3
 
 
 
-for (i in 1 .. 5) {
-    val numberOfSpace = i - 1
+//for (i in 1 .. 5) {
+//    val numberOfSpace = i - 1
+//
+//    for (j in 1 .. numberOfSpace) {
+//        print(" ")
+//    }
+//    val numberOfStar = 6 - i
+//    for (j in 1..numberOfStar) {
+//        print("*")
+//    }
+//    println()
+//}
+////------------------------------------------------
+//    for (i in 1..5) {
+//        val numberOfSpaces = i - 1
+//        for (j in 1..numberOfSpaces) {
+//            print(" ")
+//        }
+//        val numberOfStars = 11 - i * 2
+//        for (j in 1..numberOfStars) {
+//            print("*")
+//        }
+//        println()
+//    }
+////------------------------------------------------
+//    for (i in 1 until 5) {
+//        val numberOfSpaces = 5 - i
+//        for (j in 1..numberOfSpaces) {
+//            print(" ")
+//        }
+//        val numberOfStars = i
+//        for (j in 1..numberOfStars) {
+//            print("*")
+//        }
+//        println()
+//    }
+//    for (i in 1..5) {
+//        val numberOfSpaces = i - 1
+//        for (j in 1..numberOfSpaces) {
+//            print(" ")
+//        }
+//        val numberOfStars = 6 - i
+//        for (j in 1..numberOfStars) {
+//            print("*")
+//        }
+//        println()
+//    }
 
-    for (j in 1 .. numberOfSpace) {
-        print(" ")
-    }
-    val numberOfStar = 6 - i
-    for (j in 1..numberOfStar) {
-        print("*")
-    }
-    println()
-}
-//------------------------------------------------
-    for (i in 1..5) {
-        val numberOfSpaces = i - 1
-        for (j in 1..numberOfSpaces) {
-            print(" ")
-        }
-        val numberOfStars = 11 - i * 2
-        for (j in 1..numberOfStars) {
-            print("*")
-        }
-        println()
-    }
-//------------------------------------------------
-    for (i in 1 until 5) {
-        val numberOfSpaces = 5 - i
-        for (j in 1..numberOfSpaces) {
-            print(" ")
-        }
-        val numberOfStars = i
-        for (j in 1..numberOfStars) {
-            print("*")
-        }
-        println()
-    }
-    for (i in 1..5) {
-        val numberOfSpaces = i - 1
-        for (j in 1..numberOfSpaces) {
-            print(" ")
-        }
-        val numberOfStars = 6 - i
-        for (j in 1..numberOfStars) {
-            print("*")
-        }
-        println()
-    }
+ fun main(){                 //! Exercise 4
 
 
 
