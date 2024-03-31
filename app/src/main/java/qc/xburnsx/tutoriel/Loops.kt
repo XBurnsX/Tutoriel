@@ -1,5 +1,7 @@
 package qc.xburnsx.tutoriel
 
+// https://kotlinlang.org/docs/control-flow.html#while-loops
+
 fun main() {
 
 //                                       <!> While loops <!>

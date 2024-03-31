@@ -1,6 +1,7 @@
 package qc.xburnsx.tutoriel
 
 // https://www.codecademy.com/learn/learn-kotlin/modules/learn-kotlin-introduction-to-kotlin/cheatsheet
+// https://kotlinlang.org/docs/numbers.html
 
 fun main(){
 
@@ -55,7 +56,15 @@ fun main(){
     val myString4 = "Hello"
     val equalsHello = myString4.equals("Hello")
 
+/*
+&& -> The AND operator evaluates to true only if both operands are true.
+|| -> OR operator evaluates to true if at least one of its operands is true.
 
+
+
+
+
+ */
 
 
 
