@@ -128,8 +128,23 @@ package qc.xburnsx.tutoriel
 //        println()
 //    }
 
- fun main(){                 //! Exercise 4
+//!                              Exercise 4
 
+//fun getPoints(score: Int = 0, boost: Int = 0) :Int {
+//    return score * boost
+//}
+//fun main() {
+//    var score = 0;
+//    println(score)
+//    score += getPoints(10, 1)
+//    println(score)
+//    score += getPoints(20, 2)
+//    println(score)
+//    score += getPoints(-10, 1)
+//    println(score)
+//    score += getPoints(5, 3)
+//    println(score)
+//    score += getPoints(-15, 2)
+//}
 
-
-}
+//!                              Exercise 5
